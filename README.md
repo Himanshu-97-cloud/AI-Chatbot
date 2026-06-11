@@ -6,7 +6,7 @@ A simple rule-based chatbot built using Python.
 
 ## Screenshot
 
-![Chatbot Demo](image.png)
+![Chatbot Demo](screenshot.png)
 
 ## Features
 
