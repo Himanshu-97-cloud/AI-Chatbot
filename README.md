@@ -1,29 +1,21 @@
 # AI Chatbot
 
 ## Description
-This is a simple rule-based AI chatbot built using Python.
 
-The chatbot can:
-- Respond to greetings
-- Answer predefined questions
-- Handle unknown inputs
-- Exit when requested by the user
+A simple rule-based chatbot built using Python.
 
-## Technologies Used
-- Python
+## Screenshot
+
+![Chatbot Demo](image.png)
 
 ## Features
-- Dictionary based responses
-- Continuous interaction using while loop
-- Input sanitization using lower() and strip()
-- Exit command support
-- Fallback response handling
+
+- Greetings handling
+- Exit commands
+- Dictionary-based responses
+- Continuous conversation loop
 
 ## How to Run
-
-1. Install Python
-2. Open terminal
-3. Run:
 
 ```bash
 python chatbot.py
